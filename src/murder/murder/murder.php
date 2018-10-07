@@ -66,7 +66,7 @@ use pocketmine\block\Block;
 
 class murder extends PluginBase implements Listener {
 
-       public $prefix = "§a§l[§r§f§oMurder§r§a§l]§r§f";
+       public $prefix = "§o§l§cMM:";
 	public $mode = 0;
 	public $arenas = array();
 	public $vote = true;
@@ -117,16 +117,16 @@ $this->path = $this->getDataFolder();
 		if($lang->get("en")==null)
 		{
 			$messages = array();
-			$messages["kill"] = " §o§2fue asesinado ";
-			$messages["cannotjoin"] = "§b§oNo te puedes unir.";
-			$messages["seconds"] = "§osegundos para iniciar";
-			$messages["won"] = "§o§bGano §cMurder§b en la arena: §c";
-			$messages["§f§o§b"] = "§b§oEntrastes Al Juego";
-			$messages["Ase"] = "§f§o§bEl Asesino Era";
-			$messages["remainingminutes"] = "§ominutos restantes!";
-			$messages["remainingseconds"] = "§osegundos restantes!";
-			$messages["nowinner"] = "§o§cNo hay ganadores en la arena: §b";
-			$messages["moreplayers"] = "§b§oFaltan mas Jugadores!";
+			$messages["kill"] = " §o§2was murder ";
+			$messages["cannotjoin"] = "§b§oYou can not Join.";
+			$messages["seconds"] = "§oseconds to start";
+			$messages["won"] = "§o§bWin §cMurder§b in the arena: §c";
+			$messages["§f§o§b"] = "§b§oYou Join To The Game";
+			$messages["Ase"] = "§f§o§bThe Assassin was";
+			$messages["remainingminutes"] = "§ominutes left!";
+			$messages["remainingseconds"] = "§oseconds left!";
+			$messages["nowinner"] = "§o§cNo winners in Arena: §b";
+			$messages["moreplayers"] = "§b§oMore players missing!";
 			$lang->set("en",$messages);
 		}
 		$lang->save();
@@ -154,7 +154,7 @@ $this->path = $this->getDataFolder();
 				$toUse = $lang->get($playerlang->get($pl->getName()));
                                 $muerto = $jugador->getNameTag();
                                 $asesino = $asassin->getNameTag();
-                                $pl->addTitle(" $muerto Asesinado");
+                                $pl->addTitle(" $muerto Kill");
                                 
                                 $pl->sendMessage(TE::WHITE. $muerto . TE::GREEN . " " . $toUse["kill"]);
  
