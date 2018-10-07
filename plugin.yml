@@ -1,0 +1,20 @@
+name: Murder
+main: murder\murder\murder
+author: MCCreeperYT
+version: 1.0.0
+api: [3.0.0]
+
+commands:
+    mdr:
+        usage: /mdr <leave-make>
+        description: make-Commands
+    mdrlang:
+        usage: /mdrlang <en>
+        description: mdr-English-Lang
+    mdrteam:
+        usage: /mdrteam
+        description: teamCommands
+        permission: md.command.md
+    mdrstart:
+        usage: /mdrstart
+        description: Force 
