@@ -758,7 +758,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                 
                                                 
-                                                $player->sendMessage($this->prefix. "§f§o§bJoined the Game);
+                                                $player->sendMessage($this->prefix. "§f§o§bJoined the Game");
                                                 
                                                
                                                  
