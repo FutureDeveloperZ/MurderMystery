@@ -521,7 +521,7 @@ $this->path = $this->getDataFolder();
                                                         $player->setNameTag("§f§o§b");
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b3§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b3§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -534,7 +534,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b4§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b4§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -548,7 +548,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b5§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b5§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -561,7 +561,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b6§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b6§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -574,7 +574,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b7§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b7§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -587,7 +587,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b8§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b8§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -600,7 +600,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b9§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b9§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -613,7 +613,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b10§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b10§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -626,7 +626,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b11§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b11§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -639,7 +639,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b12§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b12§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -652,7 +652,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b13§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b13§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -666,7 +666,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b14§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b14§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -679,7 +679,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b15§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b15§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -692,7 +692,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b16§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b16§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -705,7 +705,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b17§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b17§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -718,7 +718,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b18§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b18§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -731,7 +731,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b19§6/§b20§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b19§6/§b20§6]");
                                                         }
                                                         $slots->save();
                                                 }
@@ -744,7 +744,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                         foreach($level->getPlayers() as $playersinarena)
                                                         {
-                                                        $playersinarena->sendMessage($player->getName() . " §bse a unido al juego §6[§b20§6/§cLLENO§6]");
+                                                        $playersinarena->sendMessage($player->getName() . " §bI joined the game §6[§b20§6/§cFULL§6]");
                                                         }
                                                            $slots->save();
                                                         }
@@ -758,7 +758,7 @@ $this->path = $this->getDataFolder();
                                                         
                                                 
                                                 
-                                                $player->sendMessage($this->prefix. "§f§o§bEntrastes Al Juego");
+                                                $player->sendMessage($this->prefix. "§f§o§bJoined the Game);
                                                 
                                                
                                                  
@@ -1086,7 +1086,7 @@ class GameSender extends murderTask {
                 $pl->getInventory()->setItem(1, $item);
                 $pl->getInventory()->setItem(0, Item::get(Item::BREAD, 0, 1));
                 $pl->getInventory()->setItem(2, Item::get(Item::CLOCK, 0, 1));
-                $pl->addTitle("§4Eres Asesino");
+                $pl->addTitle("§4Your the Killer");
                 }
                 }
                 }
@@ -1117,12 +1117,12 @@ class GameSender extends murderTask {
                 case 1:
                   $pl->setNameTag("§f§o§b");
                 $pl->getInventory()->setItem(0, Item::get(Item::BREAD, 0, 1));
-                $pl->addTitle("§bInocente");
+                $pl->addTitle("§bInnocents");
                 break;
                 case 2:
                   $pl->setNameTag("§f§o§b");
                 $pl->getInventory()->setItem(0, Item::get(Item::BREAD, 0, 1));
-                $pl->addTitle("§bInocente");
+                $pl->addTitle("§bInnocents");
                 break;
                 case 3:
                 $item = Item::get(Item::WOODEN_SWORD, 0, 1);
@@ -1134,22 +1134,22 @@ class GameSender extends murderTask {
                 case 4:
              $pl->setNameTag("§f§o§b");
                 $pl->getInventory()->setItem(0, Item::get(Item::BREAD, 0, 1));
-                $pl->addTitle("§bInocente");
+                $pl->addTitle("§bInnocents");
                 break;
                 case 5:
                   $pl->setNameTag("§f§o§b");
                 $pl->getInventory()->setItem(0, Item::get(Item::BREAD, 0, 1));
-                $pl->addTitle("§bInocente");
+                $pl->addTitle("§bInnocents");
                 break;
                 case 6:
                   $pl->setNameTag("§f§o§b");
                 $pl->getInventory()->setItem(0, Item::get(Item::BREAD, 0, 1));
-                $pl->addTitle("§bInocente");
+                $pl->addTitle("§bInnocents");
                 break;
                  case 7:
                 $pl->setNameTag("§f§o§b");
                 $pl->getInventory()->setItem(0, Item::get(Item::BREAD, 0, 1));
-                $pl->addTitle("§bInocente");
+                $pl->addTitle("§bInnocents");
                 break;
         	}
         }                                           	
@@ -1196,15 +1196,15 @@ class GameSender extends murderTask {
                                                                                                                                      if(strpos($pla->getNameTag(), "§3§f§o§3") !== false)
                                                                     {
                                                                    $player = $pla->getPlayer()->getName();
-                                                                   $pla->sendPopup("§o§b $player: Inocente");
-                                                                        $pla->sendTip(TE::RED."Murder:" . $ase .TE::AQUA. " Inocentes:" . $ino .TE::AQUA. " Detective:" . $det);
+                                                                   $pla->sendPopup("§o§b $player: Innocents");
+                                                                        $pla->sendTip(TE::RED."Murder:" . $ase .TE::AQUA. " Innocents:" . $ino .TE::AQUA. " Detective:" . $det);
                                                                         
                                                                     }
                                                                     else
                                                                     {
                                                                     	  $player = $pla->getPlayer()->getName();
                                                                    $pla->sendPopup("§o§b $player: §4Murdere");
-                                                                            $pla->sendTip(TE::RED."Murder:" . $ase .TE::AQUA. " Inocentes:" . $ino .TE::AQUA. " Detective:" . $det);
+                                                                            $pla->sendTip(TE::RED."Murder:" . $ase .TE::AQUA. " Innocents:" . $ino .TE::AQUA. " Detective:" . $det);
                                                                  }
                                                                     }
                                                                     
@@ -1212,7 +1212,7 @@ class GameSender extends murderTask {
                                                                 $winners = array();
                                                                 if($ase!=0 && $ino==0)
                                                                 {
-                                                                    $winner = TE::RED."§oMurderer".TE::GRAY." Gano Murder  en ";
+                                                                    $winner = TE::RED."§oMurderer".TE::GRAY." I win Murder in ";
                                                                     foreach($playersArena as $pl)
                                                                     {
                                                                     	                               $pl->setNameTagVisible(true);
@@ -1224,7 +1224,7 @@ class GameSender extends murderTask {
                                                                 }
                                                                 if($ase==0 && $ino!=0)
                                                                 {
-                                                                    $winner = TE::AQUA."§oInocentes".TE::GRAY." Ganaron Murder en ";
+                                                                    $winner = TE::AQUA."§oInocentes".TE::GRAY." They won Murder in ";
                                                                     foreach($playersArena as $pl)
                                                                     {
                                                                         if(strpos($pl->getNameTag(), "§f§o§b") !== false)
@@ -1237,13 +1237,13 @@ class GameSender extends murderTask {
                                                                 {
                                                                     $this->plugin->getServer()->broadcastMessage($this->prefix .TE::YELLOW. ">> ".$winner.TE::AQUA.$arena);
                                                                     $namewin = implode(", ", $winners);
-                                                                    $this->plugin->getServer()->broadcastMessage($this->prefix .TE::YELLOW. ">> ".TE::AQUA."Ganador(es):".$namewin);
+                                                                    $this->plugin->getServer()->broadcastMessage($this->prefix .TE::YELLOW. ">> ".TE::AQUA."Winners(es):".$namewin);
                                                                     foreach($playersArena as $pl)
                                                                     {
                                                                     	 
                         
                                                                         $pl->getInventory()->clearAll();
-                                                                        $pl->sendMessage("§oEl Asesino era §4Murder xd");
+                                                                        $pl->sendMessage("§oThe Murder was §4Murder xd");
                                                                         $pl->removeAllEffects();
                                                                           $pl->setNameTagVisible(true);
                                                                         $pl->teleport($this->plugin->getServer()->getDefaultLevel()->getSafeSpawn());
@@ -1310,9 +1310,9 @@ class GameSender extends murderTask {
                                                                     }
 										
 										$pl->sendMessage("§f§o§b>---------------------");
-                                                                                $pl->sendMessage("§f§o§b>§c¡Atencion: §bEl juego a iniciado!");
-                                                                                $pl->sendMessage("§f§o§b>§cMapa: §b" . $arena);
-                                                                                $pl->sendMessage("§f§o§b>Junta 5 diamantes para una Espada");
+                                                                                $pl->sendMessage("§f§o§b>§c¡§bThe Game just Started!");
+                                                                                $pl->sendMessage("§f§o§b>§cMap: §b" . $arena);
+                                                                                $pl->sendMessage("§f§o§b>Get 5 Diamonds for a Sword?");
                                                                                 $pl->sendMessage("§f§o§b>--------------------");
 									}
 								}
@@ -1485,7 +1485,7 @@ class GameSender extends murderTask {
 									$toUse = $lang->get($playerlang->get($pl->getName()));
 									$pl->sendPopup(TE::DARK_AQUA . $toUse["moreplayers"].TE::RESET);
 									  
-									$pl->sendTip("§b§oPlugin en Beta");
+									$pl->sendTip("§b§oPlugin in Beta");
 								}
 								$config->set($arena . "PlayTime", 780);
 								$config->set($arena . "StartTime", 40);
